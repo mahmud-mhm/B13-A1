@@ -154,7 +154,7 @@
     text-align: center;
     border-radius: 10px;
     height: 250px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    box-shadow: 0 10px 25px rgba(70, 70, 70, 0.08);
 }
 .note-box h2 {
     font-size: 24px;
@@ -189,28 +189,28 @@
     margin-bottom: 80px;
     margin-top: 30px;
 }
-.container {
+#brain .container {
     width: 85%;
     margin: 0 auto;
 }
 
-.brain-sol {
+#brain .brain-sol {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 60px;
 }
-.brain-img img {
+#brain .brain-img img {
     width: 600px;
     border-radius: 12px;
 }
-.brain-content h2 {
+#brain .brain-content h2 {
     font-size: 48px;
     color: #001931;
     font-weight: bold;
     margin-bottom: 20px;
 }
-.brain-list {
+#brain .brain-list {
     display: flex;
     align-items: center;
     gap: 10px;
