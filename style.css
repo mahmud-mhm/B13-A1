@@ -185,4 +185,37 @@
     margin-bottom: 15px;
 }
 
+#brain {
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.brain-sol {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+}
+.brain-img img {
+    width: 600px;
+    border-radius: 12px;
+}
+.brain-content h2 {
+    font-size: 48px;
+    color: #001931;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.brain-list {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+
 
