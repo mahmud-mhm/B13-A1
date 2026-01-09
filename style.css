@@ -223,28 +223,26 @@
 }
 
 
-.container {
+#ready .container {
     width: 85%;
     margin: 0 auto;
 }
-
-
 
 #ready {
     background-color: #F7F6F2;
     padding: 80px;
     border-radius: 12px;
 }
-.ready-contant {
+#ready .ready-content {
     text-align: center;
 }
-.ready-contant h2 {
+#ready .ready-content h2 {
+    color: #001931;
     font-size: 40px;
     font-weight: bold;
-    color: #001931;
     margin-bottom: 15px;
 }
-.ready-contant p {
+#ready .ready-content p {
     color: #627382;
     line-height: 24px;
     margin-bottom: 15px;
@@ -255,7 +253,7 @@
     background-color: #001931;
 }
 
-.container {
+#footer .container {
     width: 85%;
     margin: 0 auto;
 }
